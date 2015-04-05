@@ -1,4 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Arvo:700|Montserrat:700|Raleway:200);
+body {
+  background: #f0f0f0; }
+
 a {
   color: #222; }
 
@@ -11,5 +14,10 @@ header {
 
 section.blurbs {
   margin-top: 150px; }
+  section.blurbs h1.ui.header {
+    font-family: Montserrat, sans-serif;
+    font-weight: 700; }
+  section.blurbs h2.ui.header {
+    font-weight: 100; }
 
 /*# sourceMappingURL=application.css.map */

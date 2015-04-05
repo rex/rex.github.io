@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAAQ,uFAA+E;AAEvF,CAAE;EACA,KAAK,EAAE,IAAI;;ACHb,MAAO;EACL,OAAO,EAAE,IAAI;EAGX,cAAE;IACA,WAAW,EAAE,IAAI;IACjB,WAAW,EAAE,GAAG;IAChB,SAAS,EAAE,IAAI;;ACPrB,cAAe;EACb,UAAU,EAAE,KAAK",
+"sources": ["../../src/sass/_typography.scss","../../src/sass/_header.scss","../../src/sass/pages/_home.scss"],
 "names": [],
 "file": "application.css"
 }

@@ -1,3 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo:700|Montserrat:700|Raleway:200);
+a {
+  color: #222; }
 
+header {
+  padding: 15px; }
+  header .logo a {
+    font-family: Arvo;
+    font-weight: 700;
+    font-size: 28px; }
+
+section.blurbs {
+  margin-top: 150px; }
 
 /*# sourceMappingURL=application.css.map */
